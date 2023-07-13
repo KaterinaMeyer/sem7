@@ -4,35 +4,28 @@ class Program
 {
     static void Main()
     {
-        int[,] array = new int[4, 3];
-
-        for (int i = 0; i < 4; i++)
+        int[,] array = new int[,]
         {
-            for (int j = 0; j < 3; j++)
-            {
-                Console.WriteLine($"Введите значение элемента [{i}][{j}]:");
-                array[i, j] = int.Parse(Console.ReadLine());
-            }
+            { 1, 2, 3 },
+            { 4, 5, 6 },
+            { 7, 8, 9 },
+            { 10, 11, 12 }
+        };
+
+        Console.WriteLine("Введите позицию элемента для поиска (в формате 'i,j')");
+        string input = Console.ReadLine();
+        string[] position = input.Split(',');
+        int i = int.Parse(position[0]);
+        int j = int.Parse(position[1]);
+
+        if (i >= 0 && i < array.GetLength(0) && j >= 0 && j < array.GetLength(1))
+        {
+            int element = array[i, j];
+            Console.WriteLine($"Значение элемента [{i}][{j}]: {element}");
         }
-
-        while (true)
+        else
         {
-            Console.WriteLine("Введите позицию элемента для поиска (в формате 'i,j') ");
-            string input = Console.ReadLine();
-
-            string[] position = input.Split(',');
-            int i = int.Parse(position[0]);
-            int j = int.Parse(position[1]);
-
-            if (i >= 0 && i < 4 && j >= 0 && j < 3)
-            {
-                int element = array[i, j];
-                Console.WriteLine($"Значение элемента [{i}][{j}]: {element}");
-            }
-            else
-            {
-                Console.WriteLine("Указанная позиция элемента вне диапазона массива.");
-            }
+            Console.WriteLine("Указанная позиция элемента вне диапазона массива.");
         }
     }
 }
