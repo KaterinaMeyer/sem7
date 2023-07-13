@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\sem7_dz\task1_47\bin\Debug\net6.0\task1_47.exe
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\sem7_dz\task1_47\bin\Debug\net6.0\task1_47.deps.json
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\sem7_dz\task1_47\bin\Debug\net6.0\task1_47.runtimeconfig.json
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\sem7_dz\task1_47\bin\Debug\net6.0\task1_47.dll
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\sem7_dz\task1_47\bin\Debug\net6.0\task1_47.pdb
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\sem7_dz\task1_47\obj\Debug\net6.0\task1_47.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\sem7_dz\task1_47\obj\Debug\net6.0\task1_47.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\sem7_dz\task1_47\obj\Debug\net6.0\task1_47.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\sem7_dz\task1_47\obj\Debug\net6.0\task1_47.AssemblyInfo.cs
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\sem7_dz\task1_47\obj\Debug\net6.0\task1_47.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\sem7_dz\task1_47\obj\Debug\net6.0\task1_47.dll
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\sem7_dz\task1_47\obj\Debug\net6.0\refint\task1_47.dll
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\sem7_dz\task1_47\obj\Debug\net6.0\task1_47.pdb
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\sem7_dz\task1_47\obj\Debug\net6.0\task1_47.genruntimeconfig.cache
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\sem7_dz\task1_47\obj\Debug\net6.0\ref\task1_47.dll
